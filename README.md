@@ -79,4 +79,4 @@ You can use conditional operator such as ==, !=, <=, <, >=, > or even 'in' for l
 ```
 
 ## Demo
-http://codepen.io/renvrant/pen/ogeeBY
+https://codepen.io/ControlledChaos/pen/ejmXWv
