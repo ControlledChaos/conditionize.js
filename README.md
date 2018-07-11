@@ -47,7 +47,7 @@ Just set one attribute `data-condition`. conditionize.flexible runs through all 
 ```
 
 ## Demo
-https://codepen.io/rguliev/pen/geyeOB
+https://codepen.io/ControlledChaos/pen/ejmXWv
 
 # conditionize.js
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
